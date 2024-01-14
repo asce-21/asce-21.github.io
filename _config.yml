@@ -5,13 +5,13 @@ url: "https://asce-21.github.io"
 
 header_pages:
   - index.md
-  - peter.md
+  - achievement.md
   - about.md
   - contact.md
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'follow on <a href="https://twitter.com/sanam_dhar">twitter</a>'
 
 # Build settings
 markdown: kramdown

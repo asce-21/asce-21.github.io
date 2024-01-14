@@ -19,5 +19,3 @@ Reported CSRF vulnerability in google owned domain and got rewarded with bounty 
 
 Reported vulnerabilities to various private and public programs in Hackerone and got rewwarded with bounties.
 
-## References
-[wikipedia.org/wiki/Peter_principle]()

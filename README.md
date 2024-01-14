@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# Blog
+Github repo for my blog at https://asce-21.github.io/

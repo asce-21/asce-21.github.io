@@ -6,4 +6,4 @@ permalink: /contact
 
 # Get in touch?
 
-To get in touch you can reachout to me via [Linkedin](https://www.linkedin.com/in/sanam-dhar-0b0647147/) or [twitter](https://twitter.com/sanam_dhar)
+To get in touch you can reachout to me via [Linkedin](https://www.linkedin.com/in/sanam-dhar-0b0647147/)

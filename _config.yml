@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow on <a href="https://twitter.com/sanam_dhar">twitter</a>'
+footer: 'View <a href="https://github.com/asce-21">Github Profile</a>'
 
 # Build settings
 markdown: kramdown

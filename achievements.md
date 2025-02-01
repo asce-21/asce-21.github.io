@@ -13,9 +13,9 @@ Reported CSRF vulnerability is apple owned domain and got rewarded with hall of 
 
 [Google](https://bughunters.google.com/profile/75c7bd70-e02a-4ac7-9d9d-1bfbb40587c7/awards)
 
-Reported CSRF vulnerability in google owned domain and got rewarded with bounty and hall of fame.
+Reported vulnerabilities like XSS and CSRF in google owned domain and got rewarded with bounty and hall of fame.
 
 [Hackerone](https://hackerone.com/asce21?type=user)
 
-Reported vulnerabilities to various private and public programs in Hackerone and got rewwarded with bounties.
+Reported vulnerabilities like broken access control, CSRF, information disclosure to various private and public programs in Hackerone and got rewwarded with bounties.
 

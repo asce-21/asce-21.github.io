@@ -21,7 +21,7 @@ After running some subdomain enumeration scan on the domain **calicolabs.com** ,
 
  <img src="/assets/images/calico-xss/4.png" alt="Step 4" width="600" height="331">
 
-4 . By accessing the copied URL on another browser we can confirm the javascript will be executed successfully on other users' browser.
+5 . By accessing the copied URL on another browser we can confirm the javascript will be executed successfully on other users' browser.
 
  <img src="/assets/images/calico-xss/5.png" alt="Step 5" width="600" height="331">
 
